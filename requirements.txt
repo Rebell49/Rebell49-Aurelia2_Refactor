@@ -1,0 +1,4 @@
+psutil>=5.9
+click>=8.1
+# Optional für UI:
+kivy>=2.3 ; extra == "ui"
